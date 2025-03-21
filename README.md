@@ -30,6 +30,7 @@ Community list of startups working with AI for audio and music tech
 - [sessionwire](http://sessionwire.com) - All-in-one online collaboration platform that delivers a seamless studio experience.
 - [Aflorithmic](https://www.aflorithmic.ai) - Professional audio, voice, sound and music to scale.
 - [Audio Design Desk](https://add.app) - The Audio Solution for Video Editors.
+- [Audio Muse](https://audiomuse.ai) - All-in-one easy-to-use online Audio tools.
 - [Never Before Heard Sounds](https://heardsounds.com) - A music studio powered by AI.
 - [NeuralDSP](https://neuraldsp.com) - Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem.
 - [Neutone](https://neutone.space/) - AI audio plugin & community bridging the gap between AI research and creativity.
